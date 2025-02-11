@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Emart</string>
+    <string name="something_times">Time out !</string>
+    <string name="server_error">Server Error</string>
+    <string name="no_network_connection">No network connection</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="search">Search clothes..</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="refresh">Refresh</string>
+    <string name="close_icon">close icon\n</string>
+</resources>
