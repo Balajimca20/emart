@@ -22,3 +22,7 @@ Technologies Used
 
 Screenshots
 Below are some sample screenshots of the eMart app:
+
+![Grid View](screenshots/grid_view.jpg)  
+![List View](screenshots/list_view.jpg) 
+![search View](screenshots/search_view.jpg) 
